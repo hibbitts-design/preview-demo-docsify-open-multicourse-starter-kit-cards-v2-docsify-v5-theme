@@ -21,7 +21,7 @@
   </div>
     <div class="card-rounded">
 
-  [![CPT363-3 Header](cpt363-3/images/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg)](cpt363-3/home.md))
+  [![CPT363-3 Header](cpt363-3/images/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg)](cpt363-3/home.md)
 
   ## [CPT363-3](cpt363-3/home.md)
   A short description of the CPT363-3 course would go here.

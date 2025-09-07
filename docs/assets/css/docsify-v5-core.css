@@ -1,3 +1,19 @@
+/* Make sidebar a flex container when banner image exists */
+aside#__sidebar:has(.sidebar-nav > .banner-image:first-child) {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Put sidebar-nav (with image) first */
+aside#__sidebar:has(.sidebar-nav > .banner-image:first-child) .sidebar-nav {
+    order: 1;
+}
+
+/* Put app-nav-merged second */
+aside#__sidebar:has(.sidebar-nav > .banner-image:first-child) .app-nav-merged {
+    order: 2;
+}
+
 /* Fix for Coverpage title link colors with preview build of Docsify v5 theme */
 .cover h1 {
   position: relative;
