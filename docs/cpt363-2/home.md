@@ -1,6 +1,6 @@
 <blockquote class="announcement">
 
-# What’s Happening This Week
+# What’s Happening This Week <!-- {docsify-ignore-all} -->
 ## How to explore the problem space?
 ### Important Reminders
 * [Journey Map](#) assignment <span class='badge'> Tue Jun 12th 11:59pm PDT</span>

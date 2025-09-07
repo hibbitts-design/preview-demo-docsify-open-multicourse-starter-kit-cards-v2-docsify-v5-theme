@@ -2,6 +2,7 @@
 
 **CPT363-3**
 
+- [Home](cpt363-3/home)
 - [Course Welcome](cpt363-3/course-welcome)
 - [Week 1 (May 9 - 15)](cpt363-3/module-01)
 - [Week 2 (May 16 - 22)](cpt363-3/module-02)
