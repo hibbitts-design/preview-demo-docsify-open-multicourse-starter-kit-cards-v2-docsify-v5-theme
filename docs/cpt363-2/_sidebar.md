@@ -1,4 +1,4 @@
-<img data-src="cpt363-2/images/daria-nepriakhina-ZH4CdJRAh0A-unsplash.jpg" alt="CPT363-2 Header" class="banner-image-sidebar sidebar-nav" style="border-radius: 6px 6px 0 0;">
+<img data-src="cpt363-2/images/daria-nepriakhina-ZH4CdJRAh0A-unsplash.jpg" alt="CPT363-2 Header" class="card-image-sidebar-rounded sidebar-nav">
 
 **CPT363-2**
 
