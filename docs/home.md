@@ -10,6 +10,7 @@
 
 ## [CPT363-1](cpt363-1/home.md)
 A short description of the CPT363-1 course would go here.
+
 </div>
 
 <div class="card-rounded">
@@ -17,7 +18,8 @@ A short description of the CPT363-1 course would go here.
 [![CPT363-2 Header](cpt363-2/images/daria-nepriakhina-ZH4CdJRAh0A-unsplash.jpg)](cpt363-2/home.md)
 
 ## [CPT363-2](cpt363-2/home.md)
-A short description of the CPT363-2 course would go here. 
+A short description of the CPT363-2 course would go here.
+
 </div>
 
 <div class="card-rounded">
@@ -26,6 +28,7 @@ A short description of the CPT363-2 course would go here.
 
 ## [CPT363-3](cpt363-3/home.md)
 A short description of the CPT363-3 course would go here.
+
 </div>
 
 </div>
